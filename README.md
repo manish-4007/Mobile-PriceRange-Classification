@@ -5,9 +5,9 @@ This project gives the idea for buying new smartphone whose specifications are m
  
  1 --> (medium cost : under 17,000),
  
- 2 --> (high cost : under 35,000) and 
+ 2 --> (high cost : under 35,000),
  
- 3 --> (very high cost : more than 30,000).
+ 3 --> (very high cost : 36,000 and more...)
  
  
  Specifications for the smartphones are:   Battery power(mAh),  Battery Charging time,  Clock speed,  Number of Cores,  
